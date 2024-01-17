@@ -7,3 +7,4 @@ print(df.head(5))
 # Display the last 5 rows of the DataFrame using tail()
 print("\nLast 5 Rows: ")
 print(df.tail(5)) 
+#
