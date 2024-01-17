@@ -7,3 +7,4 @@ for n in str:
    else:
       dict[n] = 1
 print (dict)
+#count number of characters in a given string and store them in a dict
