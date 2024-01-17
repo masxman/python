@@ -28,3 +28,4 @@ print("Opening the file '" + filename + " for reading...")
 result = count_characters(filename)
 # Print the result
 print("Character frequency in " + filename + " is : \n" + str(result)) 
+#
